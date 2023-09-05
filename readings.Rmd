@@ -1,0 +1,6 @@
+---
+title: "Readings"
+output: html_document
+---
+
+Reading list or link to PDF?

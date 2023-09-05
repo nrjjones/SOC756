@@ -1,0 +1,15 @@
+---
+title: "SOC756 Website"
+---
+
+
+[Schedule](schedule.html)
+
+[Readings](readings.html)
+
+[Problem Sets](problems.html)
+
+[Class GitHub Repository](repo.hmtl)
+
+[Data Viz Examples](viz.html)
+

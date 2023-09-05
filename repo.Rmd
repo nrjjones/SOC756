@@ -1,0 +1,12 @@
+---
+title: "Class GitHub Repository"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Link to sub directory or separate repo?  
+
+You could have a separate repo for the students and keep this as just the class webpage.  
