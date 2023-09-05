@@ -1,4 +1,5 @@
 name: "SOC756"
+output_dir: "docs"
 navbar:
   title: "Class website for SOC756"
   left:
